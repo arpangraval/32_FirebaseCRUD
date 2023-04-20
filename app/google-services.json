@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "249922742435",
+    "firebase_url": "https://fir-simpleconn-default-rtdb.firebaseio.com",
+    "project_id": "fir-simpleconn",
+    "storage_bucket": "fir-simpleconn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249922742435:android:2b3441d0a286b881feb716",
+        "android_client_info": {
+          "package_name": "com.example.firebasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249922742435-v5kd3qa7ve16uegs4696k7vtkeg8938p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKiV-GMLdxcd_yLvXcJu1LOMOatkl5JIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249922742435-v5kd3qa7ve16uegs4696k7vtkeg8938p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249922742435:android:ba7d4ef11a1077b4feb716",
+        "android_client_info": {
+          "package_name": "com.example.firebasesimpleconn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249922742435-v5kd3qa7ve16uegs4696k7vtkeg8938p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKiV-GMLdxcd_yLvXcJu1LOMOatkl5JIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249922742435-v5kd3qa7ve16uegs4696k7vtkeg8938p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
